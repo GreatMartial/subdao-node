@@ -12,6 +12,9 @@ git clone --recursive https://github.com/SubDAO-Network/subdao-node.git
 cd subdao-node
 cargo build
 ```
+⚠️ Compiling Failure - with Apple M1 Chip
+
+Please see [this community contributed script](https://github.com/substrate-developer-hub/substrate-node-template/issues/179#issuecomment-843522331)
 
 ### Connect Node
 
